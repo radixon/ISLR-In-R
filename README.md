@@ -1,1 +1,3 @@
-# ISLR-In-R
+# ISLR In R
+
+Performing the Labs in ISLR
